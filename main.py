@@ -3,7 +3,7 @@ import coordinatecheck
 
 
 # Loading the coordinates
-with open('.\\coordinates.json') as f:
+with open() as f:
     data = json.load(f)
 
 # Input check
